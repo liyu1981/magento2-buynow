@@ -21,3 +21,16 @@
     padding: 14px 17px;
     font-size: 1.8rem;
 }
+
+@media only screen and (max-width: 768px) {
+
+	.catalog-product-view div.buynow-button 
+	{
+		width: 100%;
+	}
+
+	.catalog-product-view div.buynow-button button#buy-now
+	{
+		width: 100%;
+	}
+}
