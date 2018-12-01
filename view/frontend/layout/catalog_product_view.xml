@@ -21,7 +21,7 @@
     </referenceBlock>
     <referenceBlock name="related.product.addto">
       <block class="Magento\Catalog\Block\Product\View"
-              name="product.buynow.config"
+              name="product.buynow.related"
               template="Prince_Buynow::buynow-list.phtml"
               before="-"
               ifconfig="buynow/general/enableonview"/>
