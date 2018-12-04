@@ -19,12 +19,12 @@
               before="-"
               ifconfig="buynow/general/enableonview"/>
     </referenceBlock>
-    <referenceBlock name="related.product.addto">
+    <!--<referenceBlock name="related.product.addto">
       <block class="Magento\Catalog\Block\Product\View"
               name="product.buynow.related"
               template="Prince_Buynow::buynow-list.phtml"
               before="-"
               ifconfig="buynow/general/enableonview"/>
-    </referenceBlock>
+    </referenceBlock>-->
   </body>
 </page>
